@@ -1,0 +1,2 @@
+Start the server, view this page, change contents of index.pebble (in src/main/java/resources/templates/index.pebble) and refresh the page (without
+restarting the server). Note that despite application.properties specifying cache to be off, the page contents doesn't refresh..
